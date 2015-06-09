@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "description": "A node hello world example.",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "restify": "*"
+  }
+}
